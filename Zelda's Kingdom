@@ -15,7 +15,7 @@
             text-align: left; 
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
-            background-image: url('/img/img_zelda6.jpg');
+            background-image: url('/img/img_zelda.jpg');
             background-repeat: no-repeat;
             background-attachment: scroll;
             background-size: 100%, 100%;
@@ -30,21 +30,22 @@
     </style>
     <h1>This is Queen Zelda's Kingdom</h1>
     <hr>
-    <p>Zelda is my 6-year-old three-colored female guinea pig. 
+    <p>
+        Zelda is my 6-year-old tricolored female guinea pig.
         <br>
-        Zelda's favorite food is mint, but mints are too expensive so she doesn't get much. 
+        Zelda’s favorite treat is mint, but since it’s pricey, she doesn’t get it very often.
         <br>
-        Although she is not an approachable pig, she is doing ok with being touched. </p>
+        Although Zelda isn’t the most approachable pig, she’s getting used to being touched.
+    </p>
 
-    <h3>Zelda's amazing pictures</h3>
+    <h3>Zelda's amazing photos</h3>
 
     <img src="/img/img_zelda1.jpg" height="20%" width="20%" alt="Zelda's picture" transition: transform 0.3s ease-in-out;>
     <img src="/img/img_zelda3.jpg" alt="Zelda's another picture" height="20%" width="20%">
    
     <hr>
-    <p>Click the button to worship Zelda. The button is not linked to any website but every click counts.</p>
-    <p>Here comes the button...</p>
-   
+    <p>Click the button to worship Zelda. It doesn’t lead to any website, but every click matters!.</p>
+       
     <button onclick="worshipZelda()">Zelda is my master</button>
     <script>
         function worshipZelda() {
